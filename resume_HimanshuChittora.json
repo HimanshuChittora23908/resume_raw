@@ -1,0 +1,64 @@
+{
+	"basics": {
+		"name": "Himanshu Chittora",
+		"label": "Student",
+		"picture": "https://drive.google.com/file/d/17cbyF1SK98-HmwNyGCYLTBJ0OmUFFAK3/view?usp=sharing",
+		"email": "2020KUCP1023@iiitkota.ac.in",
+		"phone": "9549305890",
+		"website": "https://himanshuchittora23908.github.io/Portfolio_2/index.html",
+		"summary": "Currently enrolled in Computer Science And Engineering in 1st year at the Indian Institute of Information Technology, Kota and also a part of IIITians Network. I am currently focusing on the fields of Web Development, Animation Making, Game Development, and Competitive Programming.",
+		"location": {
+			"address": "Cosmos Greens",
+			"postalCode": "301019",
+			"city": "Bhiwadi",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [
+			{
+				"network": "Github",
+				"username": "handle",
+				"url": "https://github.com/HimanshuChittora23908"
+			},
+			{
+				"network": "linkedin",
+				"username": "username",
+				"url": "https://www.linkedin.com/in/himanshu-chittora-57b695200/"
+			},
+			{
+				"network": "Instagram",
+				"username": "handle",
+				"url": "https://www.instagram.com/himanshu_23908/"
+			}
+		]
+	},
+	"work": [{
+		"company": "IIITians Network",
+		"position": "Frontend Developer",
+		"website": "https://iiitiansnetwork.com/",
+		"startDate": "2021-01-01",
+		"endDate": "",
+		"summary": "",
+		"highlights": ["", "Working on new IIITians Network Website. Worked on UI of the new Comet Website - an initiative by IIITians Network. Helping students solve their doubts about Web Development."]
+	}],
+	"education": [{
+		"institution": "Indian Institute of Information technology, Kota",
+		"area": "Engineering",
+		"studyType": "Bachelor of Technology",
+		"startDate": "2020-12-01",
+		"endDate": "2024-04-01",
+		"gpa": "8.14",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "Master",
+		"keywords": ["HTML", "CSS", "Javascript","Bootstrap 5" ,"ReactJs", "Redux", "PHP", "Gatsby","Hugo","Blender 3D","Adobe After Effects","Adobe Photoshop", "Adobe Illustrator","Adobe Media Encoder"]
+	}],
+	"interests": [{
+		"name": "Sports",
+		"keywords": ["Cricket", "Badminton"]
+	}],
+	"references": []
+}
